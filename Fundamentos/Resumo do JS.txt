@@ -1,0 +1,7 @@
+Resumo bem por cima 
+
+O Java Script e uma linguagem de tiapgem dinamica, nao sendo nescessario declarar o tipo de cada variavel antes de atribuir um valor a ela.
+Alem disso o JS e uma linguagem multiparadigma, ou seja, possui varias solucoes para um mesmo problema.
+O Js e uma linguagem interpretada, que possui um programa pro traz que le o codigo e executa ele, oque acaba interferindo na performance e facilitando no entendimento da linguagem.
+
+NodeJs e o interpretador da linguagem, ele que torna possivel a leitura do codigo pela maquina sem a nescessidade de compila-la, uma ferramenta usada para interpretar o JS fora do naveador, usado para trabalhar no backend.
