@@ -27,52 +27,50 @@ const numero = 144
 const numeroEmString = String(numero)
 
 const num = 1000
-console.log(num.toString())
+//console.log(num.toString())
+
 
 const palavra = "Minecraft"
-
-
 //Numero de caracteres da string
-console.log(palavra.length)
+//console.log(palavra.length)
 
 
 //Numero na posicao x (lembrando q comeca a contar no 0) 
-console.log(palavra.charAt(5))
+//console.log(palavra.charAt(5))
 
 
 //Encontrar a posicao de uma letra (retorna apenas a primeria ocorrencia d ocaractere)
-console.log(palavra.indexOf("c"))
+//console.log(palavra.indexOf("c"))
 
 
 //LowerCase e UpperCase
-console.log(palavra.toLowerCase())
-console.log(palavra.toUpperCase())
+//console.log(palavra.toLowerCase())
+//console.log(palavra.toUpperCase())
 
 
 //Cortar strings
 let frase = "Vasco nao e time, Vasco e selecao"
-console.log(frase.slice(0,5))
+//console.log(frase.slice(0,5))
 
 
 //Replace
 let desconto = "25%"
 frase = "Estamos com 50% de desconto na loja"
-
-console.log(frase.replace("50%",desconto))
+//console.log(frase.replace("50%",desconto))
 
 
 //Split
 let linguagens = "JavaScript;Java;C#;PHP;Python;Go;Vb;SQL;C;C++"
 let arrayLinguagens = linguagens.split(";")
 
-console.log("Linguagens:")
-for(i=0;i<arrayLinguagens.length;i++){
-    console.log(arrayLinguagens[i])
-}
+//console.log("Linguagens:")
+//for(i=0;i<arrayLinguagens.length;i++){
+//   console.log(arrayLinguagens[i])
+//}
 
 
 //Trim
 
 let login = "   dfdgdh@emailteste.com      "
 let loginCerto = login.trim()
-console.log(loginCerto)
+//console.log(loginCerto)
